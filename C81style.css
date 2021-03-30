@@ -1,0 +1,16 @@
+
+h1
+{
+ color: black;
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#ca{
+background-color: aliceblue;
+border: black 3px ridge;
+}
